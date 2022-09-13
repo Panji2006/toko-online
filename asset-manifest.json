@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/toko-online/static/css/main.42f624f3.css",
+    "main.js": "/toko-online/static/js/main.9405d250.js",
+    "static/media/organic-about-1.png": "/toko-online/static/media/organic-about-1.00654a0ff0de2b0bc1f2.png",
+    "static/media/organic-slider.png": "/toko-online/static/media/organic-slider.f6cdc2bf7825986f7668.png",
+    "static/media/organic-bg-1.png": "/toko-online/static/media/organic-bg-1.63bf16e69d74040b8f1a.png",
+    "static/media/organic-pattern-1.png": "/toko-online/static/media/organic-pattern-1.8009570c9abe9ec6aed4.png",
+    "index.html": "/toko-online/index.html",
+    "main.42f624f3.css.map": "/toko-online/static/css/main.42f624f3.css.map",
+    "main.9405d250.js.map": "/toko-online/static/js/main.9405d250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f624f3.css",
+    "static/js/main.9405d250.js"
+  ]
+}
